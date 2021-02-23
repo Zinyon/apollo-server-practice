@@ -1,0 +1,26 @@
+{
+  "name": "apollo-server-practice",
+  "version": "1.0.0",
+  "description": "apollo-server 실습 (https://www.yalco.kr/lectures/graphql-apollo/)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zinyon/apollo-server-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zinyon/apollo-server-practice/issues"
+  },
+  "homepage": "https://github.com/Zinyon/apollo-server-practice#readme",
+  "dependencies": {
+    "apollo-server": "^2.21.0",
+    "convert-csv-to-json": "^1.3.0",
+    "graphql": "^15.5.0"
+  }
+}
